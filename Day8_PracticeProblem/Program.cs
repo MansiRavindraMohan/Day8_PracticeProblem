@@ -12,6 +12,9 @@ namespace Day8_PracticeProblem
         {
             MatchingString matchingString = new MatchingString();
             matchingString.MethodString();
+
+            SequenceMatching sequenceMatching = new SequenceMatching();
+            sequenceMatching.MethodSequence();
             Console.ReadLine();
         }
     }
